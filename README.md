@@ -9,5 +9,5 @@ staffing needs across the country.
 # Key Project Questions and Goals
 Do states with a higher population have a higher death count? Is one age group more vulnerable (have a higher reported number of deaths) than all others? What can be done to help this agency distribute staff to states with the most deaths? What can be done to continue to improve patient care and reduce the number of deaths, if possible?
 # Data Sourcing 
-Data Sheet 1, U.S. Census Report, [Excel File](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
-Data Sheet 2, Influenza Deaths Report, [Excel File](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
+[Data Sheet 1](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx), U.S. Census Report 
+[Data Sheet 2](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv), Influenza Deaths Report
